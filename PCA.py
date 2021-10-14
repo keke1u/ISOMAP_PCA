@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 class PCA:
     """
     reduce data (d, m) dimension to (k, m)
